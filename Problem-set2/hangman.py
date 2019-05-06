@@ -1,5 +1,4 @@
 # Problem Set 2, hangman.py
-# Name: zhangtieshan/15352418
 # Collaborators:
 # Time spent:
 
