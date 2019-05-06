@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 12 10:01:39 2019
-
-@author: zhangtieshan
-"""
 
 import math
 x=input("Enter number x: ")
