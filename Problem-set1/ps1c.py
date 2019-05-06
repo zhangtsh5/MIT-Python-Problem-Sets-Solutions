@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 17 11:36:02 2019
 
-@author: zhangtieshan
-"""
 
 annual_salary=int(input("Enter the starting salary: "))
 semi_annual_raise=0.07                 #涨薪比例
